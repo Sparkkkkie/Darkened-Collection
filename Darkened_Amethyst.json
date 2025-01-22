@@ -176,5 +176,9 @@
     "plus": {
         "version": 0,
         "mentionLineColor": "#7809f6"
+            "background": {
+        "url": "https://raw.githubusercontent.com/Sparkkkkie/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/DOWNLOAD%20125%2B%20Best%20Purple%20iPhone%20Wallpapers%20(Free%204k%20HD%20Download).jpeg",
+	"alpha": 1
+    }
     }
 }
